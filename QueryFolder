@@ -1,0 +1,7 @@
+mkdir QueryFolder
+
+echo "# This is a placeholder file" > QueryFolder/README.md
+
+git add QueryFolder
+git commit -m "Add new folder with placeholder file"
+git push origin main
